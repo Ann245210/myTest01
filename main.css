@@ -1,0 +1,14 @@
+header{
+    height: 250px;
+    background-color: salmon;
+    border-radius: 10px;
+}
+
+main {
+    min-height: 800px;
+}
+
+footer {
+    background-color: aliceblue;
+    height: 60px;
+}
